@@ -1,0 +1,15 @@
+{
+  "pages": [
+    {
+      "name": "3d13380e",
+      "displayName": "Página sin título",
+      "pageType": "PAGE_TYPE_CANVAS"
+    }
+  ],
+  "uiSettings": {
+    "theme": {
+      "widgetHeaderAlignment": "ALIGNMENT_UNSPECIFIED"
+    },
+    "applyModeEnabled": false
+  }
+}
